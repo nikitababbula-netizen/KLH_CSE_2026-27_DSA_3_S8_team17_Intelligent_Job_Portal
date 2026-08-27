@@ -1,4 +1,4 @@
-KLH_CSE_2026-27_DSA-3_S8_Team-17_INTELLIGENTJOBPORTAL
+**KLH_CSE_2026-27_DSA-3_S8_Team-17_INTELLIGENTJOBPORTAL**
 
  💼 Intelligent Job Portal Using Advanced Algorithms
 
