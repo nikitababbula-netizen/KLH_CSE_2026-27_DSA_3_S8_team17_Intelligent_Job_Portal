@@ -1,4 +1,76 @@
-ID,JobTitle,Company,Location,Qualification,Experience,Salary,Skills,Description
-101,Java Developer,TechNova,Hyderabad,BTech,0,6,Java Python SQL,Java development and backend applications
-102,Backend Developer,CodeBridge,Hyderabad,BTech,1,8,Java Spring MySQL,Backend software development
-103,Data Analyst,InsightWorks,Bangalore,BTech,1,7,Python SQL Excel,Data analysis and reporting
+JobTitle	Company	Location	Qualification	Experience	Salary	Skills	Description		
+Java Developer	TechNova	Hyderabad	BTech	0	6	Java Python SQL	Java development and backend applications		
+Backend Developer	CodeBridge	Hyderabad	BTech	1	8	Java Spring MySQL	Backend software development		
+Data Analyst	InsightWorks	Bangalore	BTech	1	7	Python SQL Excel	Data analysis and reporting		
+Frontend Developer	PixelLabs	Hyderabad	BTech	0	5	HTML CSS JavaScript	Frontend web development		
+Software Engineer	NextGen	Chennai	BTech	1	9	Java C++ DSA	Software development and algorithms		
+QA Engineer	TestCore	Bangalore	BTech	0	6	Java Selenium SQL	Testing and automation		
+Machine Learning Engineer	AIGrid	Pune	BTech	2	10	Python MachineLearning SQL	Build machine learning models		
+Full Stack Developer	WebSphere	Hyderabad	BTech	1	8	JavaScript React Node	Full stack web development		
+Cloud Engineer	CloudNet	Bangalore	BTech	2	11	AWS Linux Docker	Cloud infrastructure and deployment		
+DevOps Engineer	OpsWorks	Hyderabad	BTech	1	9	Docker Jenkins AWS	Continuous integration and deployment		
+Python Developer	PyLabs	Chennai	BTech	0	7	Python Django SQL	Python web application development		
+Android Developer	MobileCraft	Hyderabad	BTech	1	8	Java Kotlin Android	Android application development		
+iOS Developer	AppSphere	Bangalore	BTech	1	9	Swift iOS Xcode	iOS mobile application development		
+Data Engineer	DataFlow	Pune	BTech	2	11	Python SQL Spark Hadoop	Build data pipelines		
+AI Engineer	NeuroTech	Hyderabad	BTech	2	12	Python TensorFlow AI	Artificial intelligence applications		
+Cybersecurity Analyst	SecureNet	Bangalore	BTech	1	8	Linux Python Security	Security monitoring and analysis		
+Network Engineer	NetCore	Chennai	BTech	1	7	Networking Linux Cisco	Network administration and support		
+Database Administrator	DBWorks	Hyderabad	BTech	2	9	MySQL Oracle SQL	Database administration		
+Cloud Architect	SkySystems	Bangalore	BTech	4	16	AWS Azure Docker	Design cloud architecture		
+DevSecOps Engineer	SecureOps	Pune	BTech	2	12	Docker Jenkins Security AWS	Secure DevOps pipelines		
+React Developer	UIWorks	Hyderabad	BTech	0	7	React JavaScript CSS HTML	Build modern React interfaces		
+Node.js Developer	ServerLabs	Bangalore	BTech	1	8	Node JavaScript MongoDB	Backend services with Node.js		
+Angular Developer	WebCore	Chennai	BTech	1	8	Angular TypeScript HTML CSS	Angular web application development		
+Spring Boot Developer	JavaWorks	Hyderabad	BTech	1	9	Java Spring Boot MySQL	Enterprise Java applications		
+C++ Developer	SystemsLab	Bangalore	BTech	1	8	C++ STL DSA Linux	System software development		
+C# Developer	DotNetHub	Pune	BTech	1	8	C# .NET SQL Azure	.NET application development		
+PHP Developer	WebForge	Hyderabad	BTech	0	5	PHP MySQL HTML CSS	PHP web development		
+UI UX Designer	DesignStudio	Bangalore	BDes	1	6	Figma UI UX HTML	User interface and user experience design		
+Product Designer	ProductLabs	Hyderabad	BDes	2	9	Figma UX Research Prototyping	Product design and user research		
+Business Analyst	BizTech	Chennai	BTech	1	7	Excel SQL PowerBI	Business data analysis		
+Data Scientist	DataMind	Bangalore	BTech	2	13	Python R SQL MachineLearning	Advanced data science projects		
+BI Developer	ReportWorks	Hyderabad	BTech	2	10	PowerBI SQL Excel	Business intelligence dashboards		
+Power BI Analyst	AnalyticsPro	Pune	BTech	1	8	PowerBI SQL DAX Excel	Create analytics dashboards		
+Tableau Developer	VizWorks	Bangalore	BTech	1	8	Tableau SQL Excel	Data visualization and reporting		
+NLP Engineer	LanguageAI	Hyderabad	BTech	2	12	Python NLP TensorFlow	Natural language processing applications		
+Computer Vision Engineer	VisionLabs	Pune	BTech	2	12	Python OpenCV AI	Computer vision systems		
+Deep Learning Engineer	DeepTech	Bangalore	BTech	2	13	Python TensorFlow PyTorch	Deep learning model development		
+Automation Engineer	AutoWorks	Hyderabad	BTech	1	8	Python Selenium Jenkins	Test automation and scripting		
+Manual Tester	QualityFirst	Chennai	BTech	0	5	Testing SQL Jira	Manual testing and defect tracking		
+Performance Tester	LoadTest	Bangalore	BTech	1	8	JMeter Java SQL	Application performance testing		
+Site Reliability Engineer	ReliabilityHub	Hyderabad	BTech	2	12	Linux Docker Kubernetes AWS	Site reliability and cloud operations		
+Kubernetes Engineer	ContainerCloud	Pune	BTech	2	11	Kubernetes Docker Linux AWS	Container orchestration		
+Linux System Administrator	SysAdminPro	Bangalore	BTech	1	7	Linux Bash Networking	Linux server administration		
+IT Support Engineer	HelpDeskPlus	Hyderabad	BTech	0	5	Windows Linux Networking	Technical support and troubleshooting		
+Technical Support Engineer	SupportCore	Chennai	BTech	1	6	Linux SQL Networking	Application and technical support		
+Solutions Architect	EnterpriseTech	Bangalore	BTech	5	18	Java AWS Azure SQL	Enterprise solution architecture		
+Software Architect	ArchWorks	Hyderabad	BTech	5	18	Java Spring Microservices AWS	Software architecture and design		
+Microservices Developer	ServiceTech	Pune	BTech	2	11	Java Spring Docker Kubernetes	Microservices development		
+API Developer	APIWorks	Bangalore	BTech	1	8	Java REST API SQL	REST API development		
+Integration Developer	IntegrateHub	Hyderabad	BTech	2	10	Java API SQL XML	Application integration		
+Blockchain Developer	ChainTech	Bangalore	BTech	1	10	JavaScript Blockchain Solidity	Blockchain application development		
+Cloud Security Engineer	CloudSecure	Pune	BTech	2	13	AWS Security Linux Docker	Cloud security engineering		
+Security Engineer	CyberGuard	Hyderabad	BTech	2	11	Python Security Linux Networking	Cybersecurity engineering		
+Penetration Tester	EthicalSec	Bangalore	BTech	1	9	Linux Python Security Networking	Security testing and vulnerability assessment		
+Game Developer	GameForge	Hyderabad	BTech	1	8	C++ Unity C#	Game development		
+AR VR Developer	ImmersiveTech	Bangalore	BTech	1	9	Unity C# 3D	AR and VR application development		
+Embedded Systems Engineer	EmbeddedWorks	Chennai	BTech	1	8	C C++ Linux Embedded	Embedded software development		
+IoT Developer	IoTWorks	Hyderabad	BTech	1	8	Python C++ IoT MQTT	Internet of Things applications		
+Firmware Engineer	ChipTech	Bangalore	BTech	2	10	C C++ Embedded Linux	Firmware development		
+Robotics Engineer	RoboLabs	Pune	BTech	2	11	Python C++ ROS	Robotics software development		
+Algorithm Engineer	AlgoTech	Hyderabad	BTech	2	12	Java C++ DSA Algorithms	Algorithm development and optimization		
+Data Mining Engineer	MiningTech	Bangalore	BTech	2	10	Python SQL DataMining	Data mining and analytics		
+Research Engineer	ResearchLabs	Hyderabad	BTech	2	11	Python C++ Algorithms	Research and algorithm development		
+Software Intern	InnovateHub	Hyderabad	BTech	0	3	Java Python DSA	Software development internship		
+Data Science Intern	DataStart	Bangalore	BTech	0	4	Python SQL MachineLearning	Data science internship		
+Web Developer Intern	WebStart	Hyderabad	BTech	0	3	HTML CSS JavaScript	Web development internship		
+Cybersecurity Intern	CyberStart	Pune	BTech	0	4	Linux Python Security	Cybersecurity internship		
+Cloud Intern	CloudStart	Chennai	BTech	0	4	AWS Linux Docker	Cloud engineering internship		
+Database Developer	DataBasePro	Hyderabad	BTech	1	8	SQL MySQL PostgreSQL	Database application development		
+SQL Developer	SQLWorks	Bangalore	BTech	1	7	SQL Oracle PostgreSQL	SQL development and optimization		
+ETL Developer	ETLPro	Pune	BTech	2	9	SQL Python ETL Data	ETL pipeline development		
+Scrum Master	AgileWorks	Hyderabad	BTech	3	12	Agile Scrum Jira Communication	Agile project coordination		
+Technical Project Manager	ProjectTech	Bangalore	BTech	4	15	Agile Jira SQL Communication	Technical project management		
+Product Manager	ProductCore	Hyderabad	BTech	3	14	ProductManagement SQL Analytics	Product planning and strategy		
+Technical Writer	DocuTech	Chennai	BTech	1	6	TechnicalWriting Markdown Git	Technical documentation		
