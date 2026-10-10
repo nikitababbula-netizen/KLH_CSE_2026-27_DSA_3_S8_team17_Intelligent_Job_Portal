@@ -1,0 +1,6 @@
+com\intellijobs\portal\SkillMatch.class
+com\intellijobs\portal\SkillMatchRequest.class
+com\intellijobs\portal\JobService.class
+com\intellijobs\portal\JobController.class
+com\intellijobs\portal\JobPortalApplication.class
+com\intellijobs\portal\Job.class
