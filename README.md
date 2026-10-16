@@ -371,12 +371,11 @@ Before final submission, verify that:
 
 **Team Members**
 
-1. [Member 1 Name] — [Student ID]
-2. [Member 2 Name] — [Student ID]
-3. [Member 3 Name] — [Student ID]
-4. [Member 4 Name] — [Student ID]
+1. [K.Vansika] — [2520030527]
+2. [D.Venya Sri] — [2520030531]
+3. [B.Nikita] — [2520030172]
 
-**Project Supervisor:** [Supervisor Name]
+**Project Supervisor:** [V.Sireesha]
 
 ## 17. Conclusion
 
